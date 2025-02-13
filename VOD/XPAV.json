@@ -4,7 +4,7 @@
             "name": "xhamster",
             "type": 3,
             "api": "csp_xhamster",
-            "ext": "https://raw.githubusercontent.com/25022919/xptv-extensions/7edafa6ad8cc916448fba659b1a7f4c32b05a80b/js/xhamster.js"
+            "ext": "https://raw.githubusercontent.com/25022919/xptv-extensions/refs/heads/main/js/xhamster.js"
         }
     ]
 }
